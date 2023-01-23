@@ -23,3 +23,5 @@ ao efetuar o cadastro é redirecionado para adm, aonde da para ver a lista de ca
 da para voltar para a home clicando na logotipo na navbar.
 
 O back está fazendo todas as validações antes de cadatrar ou alterar para nao ter cadastro nulo.
+
+caso eu consiga a vaga, irei me esforçar muito para aprender o que deixei passar nesse teste!
