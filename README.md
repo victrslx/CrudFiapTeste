@@ -11,6 +11,12 @@ fiz o front utilizando um template bootstrap e fui editando a favor dos requisit
 e deixei os textos em latim que ja vem com o template justamente para mostrar aonde teria texto pois pela falta de tempo, 
 nao daria para fazer textos para colocar no mesmo.
 
+no site tem a area de serviços, produtos onde eu pensei qeu seria o preços, pois no video do chicão não da para entender muito bem o que seria esse "preços"
+
+coloquei uns topicos falando sobre o publico alvo e "criação" da ponto frio
+
+e por fim
+
 o cadastro esta no final do site, aonde o usuario pode fazer o cadastro para receber promoções. 
 ao efetuar o cadastro é redirecionado para adm, aonde da para ver a lista de cadastro, editar, ver detetalhes e excluir 
 da para voltar para a home clicando na logotipo na navbar.
