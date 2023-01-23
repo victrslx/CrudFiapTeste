@@ -1,0 +1,41 @@
+﻿@model CrudFiapTeste.Models.UserPromotionRegister
+
+@{
+    ViewData["Title"] = "Details";
+}
+<style>
+    #mainNav {
+    background-color: #212529;
+}
+</style>
+<div class="container" style="margin-top:200px; margin-bottom:200px;">
+<h1>Details</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.number)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.number)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id">Edit</a> |
+    <a asp-action="ListUser">Back to List</a>
+</div>
+</div>
