@@ -7,11 +7,12 @@ alem disso tem que ser feita a troca das informações de conexão em appsetting
 utilizei o .net core 5 por nao saber se os devs já estão utilizando o visual studio 22 onde é por padrão o 6 e o 7,
 então possa ser que antes de executar o projeto tenha que ser baixado o .net core 5.
 
-fiz o front utilizando um template bootstrap e fui editando a favor dos requisitos do teste deixei tudo em ingles por conta da redundancia do portugues
-e deixei os textos em latim que ja vem com o template justamente para mostrar aonde teria texto pois pela falta de tempo, 
+fiz o front utilizando um template bootstrap (https://startbootstrap.com/theme/agency) e fui editando a favor dos requisitos do teste.
+deixei tudo em ingles por conta da redundancia do portugues
+e mantive os textos em latim que ja vem com o template justamente para mostrar aonde teria texto pois pela falta de tempo, 
 nao daria para fazer textos para colocar no mesmo.
 
-no site tem a area de serviços, produtos onde eu pensei qeu seria o preços, pois no video do chicão não da para entender muito bem o que seria esse "preços"
+no site tem a area de serviços, produtos, que, é onde eu pensei que seria o preços, pois no video do chicão não da para entender muito bem o que seria esse "preços"
 
 coloquei uns topicos falando sobre o publico alvo e "criação" da ponto frio
 
@@ -22,5 +23,3 @@ ao efetuar o cadastro é redirecionado para adm, aonde da para ver a lista de ca
 da para voltar para a home clicando na logotipo na navbar.
 
 o back está fazendo todas as validações antes de cadatrar ou alterar para nao ter cadastro nulo.
-
-video explicando o projeto:
